@@ -1,0 +1,12 @@
+@media screen and (min-width: 768px) {
+  .news-input {
+    width: 50% !important;
+  }
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  margin: 0;
+}
